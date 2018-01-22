@@ -1,0 +1,25 @@
+Lab 3b: Basic Lane Detection
+
+1. Download the following repo:
+
+https://github.com/mithi/basic-lane-detection
+
+2. Unzip in Documents
+
+3. Open Conda Prompt
+
+> cd Doc*
+> cd basic*
+> activate rg-sdc-gp
+
+4. Open Jupyter notebook
+
+> jupyter notebook
+
+5. Copy videos from videos folder to main folder
+
+Exercises:
+
+1. Review the process for the pictures conversion
+2. Add video and run through pipeline
+3. Create python program and make the functions into module
