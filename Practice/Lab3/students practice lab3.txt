@@ -1,0 +1,32 @@
+1. Download and update latest copy of github
+
+https://github.com/robogeekcanada/GP_self_driving_car
+
+2. Extract in Documents - replace files
+
+3. Open Conda Prompt
+
+ > cd Doc*
+ > cd GP*
+ > cd Practice
+ > cd Lab3
+
+4. Open file explorer and check what is inside the test-images folder
+5. Open file explorer and check what is inside the videos folder 
+ 
+6. Test program
+
+ > python test_sld.py
+
+7. Check the folders again and note what has happened
+
+8. Using process image function - apply lane detection algorith to dashcam2_video
+
+9. Using IDLE open test-sld2.py file and note the difference in parameters
+
+10. Test program
+
+> python test_sld2.py
+
+11. Using process image function - apply lane detection algorith to dashcam2_video
+  
