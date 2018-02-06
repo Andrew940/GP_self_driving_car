@@ -1,0 +1,52 @@
+As per prior labs first connect to your server.
+
+1. Clone repository:
+
+https://github.com/mithi/vehicle-tracking-2
+
+2. Unzip and Extract All in Documents folder
+
+3. Review README.md together in class
+
+4. Review Project PDF:
+
+https://github.com/mithi/vehicle-tracking/blob/master/WRITEUP.pdf
+
+5. Discuss in class HOG, Heatmaps
+
+6. Open CONDA prompt, enter the following commands
+
+ > cd Doc*
+ > cd vehicle*
+ > activate rg-sdc-gp
+ > jupyter notebook
+
+7. Go to Files Explorer, and go to:
+
+...\Documents\vehicle-tracking-2-master\ypnb\
+
+8. Copy the .ypnb files to parent folder
+
+...\Documents\vehicle-tracking-2-master\
+
+9. Go to Files Explorer, and go to:
+
+...\Documents\vehicle-tracking-2-master\files\
+
+10. Copy all files to parent folder
+
+...\Documents\vehicle-tracking-2-master\
+
+11. Go to Files Explorer, and go to:
+
+...\Documents\vehicle-tracking-2-master\test_images\
+
+12. Copy all files to parent folder
+
+...\Documents\vehicle-tracking-2-master\
+
+13. Copy vehicles.zip and non-vehicles.zip from instructor and Extract all:
+
+...\Documents\vehicle-tracking-2-master\
+
+
