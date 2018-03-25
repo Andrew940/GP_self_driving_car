@@ -1,0 +1,30 @@
+Instructions for students:
+
+1. Open CONDA prompt
+
+>> activate rg-sdc-gp
+>> cd Documents
+>> cd Part3
+
+2. Test the following files:
+
+>> python get_screen_inputs.py
+>> python sld_gp.py
+
+Discussion: Simplification of code - creating modules
+
+3. Open DOSBox
+>> mount c: C:\GPGame
+>> C:
+>> gp
+>> 3
+
+Test the following file
+>> python test_drivingwindow
+
+Discussion: Notice __main__ vs main(). Check what happens if we don't use __main__
+
+4. Now we will merge the 2 tests:
+>> python test_drivingwindow2
+
+Discussion: What is happening, how can we fix it? Where do we make the changes?
